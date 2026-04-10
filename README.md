@@ -1,4 +1,4 @@
-# BRK-CYS 2026 CTF — Official Writeups
+# BRK-CYS 2026 CTF - Official Writeups
 
 This repository contains official writeups for challenges authored in the **BRK-CYS 2026 CTF**.
 
