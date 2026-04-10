@@ -1,0 +1,32 @@
+Hint 1:
+"Time shows no mercy, and echoes fade away."
+Focus on timing precision. Some parameters depend on extremely small fractions of a second.
+Can you freeze time?
+
+---
+
+Hint 2:
+"The network intertwines, and the noise grows stronger."
+Some problems may appear linear, but noise distorts everything.
+Can you separate the signal from the noise?
+
+---
+
+Hint 3:
+"Chaos is the new order."
+Do not search for traditional patterns. Chaotic systems are unpredictable, yet they rely on an initial seed.
+Can you reconstruct the past?
+
+---
+
+Hint 4:
+"The key is not in your hands, but within you."
+There are no ready-made tools for this challenge.
+You will need to build your own approach — and perhaps rethink what 'solving' really means.
+
+---
+
+Hint 5:
+"In the end, Spider-Man is left alone."
+Not all stories have a happy ending.
+Are you ready to face the truth?
