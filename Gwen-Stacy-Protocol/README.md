@@ -4,7 +4,7 @@
 
 * **Category:** Crypto / Multi-Stage
 * **Difficulty:** Impossible
-* **Author:** Ayham Al-Qaisi (Breakers)
+* **Author:** Ayham Alderbashi
 * **Event:** BRK-CYS 2026
 
 ---
