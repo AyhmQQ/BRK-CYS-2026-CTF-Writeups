@@ -1,0 +1,53 @@
+Welcome, contestant.
+
+In this challenge, you will dive into the depths of an unforgettable tragedy, where the threads of fate intertwine with the complexities of modern cryptography.
+
+"The Gwen Stacy Protocol" is not just a challenge — it is a journey through three stages of loss and despair.
+
+Each time you connect to this protocol, all parameters will change. Every attempt is unique. Any mistake will disconnect you instantly, and upon reconnecting, you will face a completely new instance.
+
+Are you ready to face the loss?
+
+---
+
+Structure of the challenge:
+
+Stage 1 — Memory of Threads
+- Chaotic Elliptic Curve Cryptography
+- Dynamic parameters (p, a, b)
+- Time-based seeds
+
+Goal:
+Decrypt a message to obtain the key for the next stage.
+
+---
+
+Stage 2 — Gwen’s Fall
+- Learning With Errors (LWE)
+- Random matrix A
+- Secret vector s
+- Noise e
+
+Equation:
+b = A·s + e
+
+Goal:
+Recover the secret vector s.
+
+---
+
+Stage 3 — Peter’s Solitude
+- Dual chaotic systems (Logistic + Tent maps)
+- State poisoning
+- Temporal interleaving
+
+Goal:
+Use the recovered data to decrypt the final flag.
+
+---
+
+One-shot rule:
+- Any wrong answer → immediate disconnect
+- Reconnect → completely new challenge
+
+Good luck.
